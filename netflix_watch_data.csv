@@ -1,0 +1,201 @@
+UserID,Title,Genre,WatchDate,Duration,Device,SubscriptionStatus
+1045,BoJack Horseman,Crime,2024-11-27,54,Laptop,Active
+1002,The Office,Drama,2024-11-20,72,Tablet,Active
+1005,BoJack Horseman,Drama,2024-11-20,66,TV,Cancelled
+1023,The Office,Drama,2024-11-05,36,Laptop,Cancelled
+1042,Black Mirror,Comedy,2024-11-13,98,Tablet,Active
+1035,Stranger Things,Thriller,2024-11-30,115,Laptop,Cancelled
+1044,The Office,Crime,2024-11-12,111,Laptop,Cancelled
+1044,The Office,Drama,2024-11-04,70,Mobile,Cancelled
+1002,Black Mirror,Comedy,2024-11-23,99,TV,Cancelled
+1043,Black Mirror,Crime,2024-11-18,44,TV,Active
+1000,Black Mirror,Crime,2024-11-14,41,Tablet,Cancelled
+1034,Black Mirror,Crime,2024-11-06,115,Laptop,Active
+1019,Stranger Things,Comedy,2024-11-05,77,Mobile,Cancelled
+1028,Narcos,Drama,2024-11-07,97,Mobile,Active
+1033,The Crown,Crime,2024-11-17,69,TV,Active
+1014,Wednesday,Sci-Fi,2024-11-15,97,Tablet,Cancelled
+1001,The Crown,Comedy,2024-11-06,69,Mobile,Active
+1049,BoJack Horseman,Crime,2024-11-12,92,Laptop,Cancelled
+1010,Black Mirror,Crime,2024-11-25,90,Laptop,Cancelled
+1004,Stranger Things,Crime,2024-11-21,55,Tablet,Active
+1034,BoJack Horseman,Crime,2024-11-18,85,Tablet,Active
+1035,Breaking Bad,Sci-Fi,2024-11-09,57,TV,Cancelled
+1006,Breaking Bad,Crime,2024-11-23,85,Laptop,Active
+1021,Breaking Bad,Drama,2024-11-16,29,Mobile,Cancelled
+1019,BoJack Horseman,Comedy,2024-11-15,63,TV,Active
+1027,Breaking Bad,Thriller,2024-11-06,72,Tablet,Cancelled
+1017,Stranger Things,Sci-Fi,2024-11-14,48,TV,Active
+1014,Narcos,Sci-Fi,2024-11-15,84,TV,Active
+1001,BoJack Horseman,Crime,2024-11-19,119,Mobile,Cancelled
+1038,Narcos,Drama,2024-11-26,37,Mobile,Cancelled
+1026,The Crown,Sci-Fi,2024-11-10,97,TV,Cancelled
+1045,Black Mirror,Crime,2024-11-27,27,Mobile,Cancelled
+1042,BoJack Horseman,Drama,2024-11-15,84,TV,Cancelled
+1032,Narcos,Thriller,2024-11-06,20,TV,Cancelled
+1034,Black Mirror,Comedy,2024-11-25,88,Mobile,Cancelled
+1039,Black Mirror,Drama,2024-11-18,75,Tablet,Cancelled
+1007,Breaking Bad,Drama,2024-11-09,89,Tablet,Cancelled
+1018,Black Mirror,Crime,2024-11-06,102,TV,Cancelled
+1027,Narcos,Crime,2024-11-07,113,Laptop,Cancelled
+1038,Wednesday,Thriller,2024-11-23,116,TV,Cancelled
+1013,Black Mirror,Sci-Fi,2024-11-13,31,TV,Active
+1010,Breaking Bad,Crime,2024-11-28,88,Laptop,Active
+1000,The Office,Sci-Fi,2024-11-28,31,Tablet,Active
+1028,The Crown,Sci-Fi,2024-11-22,105,Laptop,Active
+1014,Stranger Things,Comedy,2024-11-15,64,Laptop,Active
+1015,Stranger Things,Crime,2024-11-30,74,TV,Cancelled
+1040,Black Mirror,Crime,2024-11-05,77,Laptop,Cancelled
+1018,Black Mirror,Sci-Fi,2024-11-03,71,Tablet,Cancelled
+1029,The Crown,Comedy,2024-11-01,26,Tablet,Cancelled
+1000,Wednesday,Comedy,2024-11-11,97,TV,Active
+1009,Breaking Bad,Drama,2024-11-10,65,Mobile,Cancelled
+1041,Breaking Bad,Drama,2024-11-15,60,TV,Cancelled
+1018,Black Mirror,Thriller,2024-11-17,38,Mobile,Active
+1004,The Crown,Drama,2024-11-11,87,Laptop,Cancelled
+1028,The Crown,Drama,2024-11-17,52,Tablet,Cancelled
+1013,Breaking Bad,Sci-Fi,2024-11-07,65,TV,Active
+1020,The Office,Comedy,2024-11-07,52,Tablet,Active
+1040,The Crown,Crime,2024-11-15,50,Mobile,Cancelled
+1020,The Office,Thriller,2024-11-23,25,TV,Active
+1043,The Crown,Drama,2024-11-16,104,Tablet,Cancelled
+1015,BoJack Horseman,Crime,2024-11-23,116,Laptop,Active
+1044,Narcos,Thriller,2024-11-24,81,Laptop,Active
+1046,The Office,Crime,2024-11-06,111,Mobile,Active
+1021,BoJack Horseman,Crime,2024-11-15,64,Laptop,Active
+1002,Wednesday,Sci-Fi,2024-11-27,55,Tablet,Active
+1008,The Office,Drama,2024-11-06,41,TV,Cancelled
+1015,Narcos,Crime,2024-11-03,88,Mobile,Active
+1016,BoJack Horseman,Sci-Fi,2024-11-17,42,Laptop,Cancelled
+1002,The Office,Crime,2024-11-04,111,Tablet,Cancelled
+1032,Narcos,Comedy,2024-11-15,73,Mobile,Active
+1050,Narcos,Comedy,2024-11-11,28,Mobile,Cancelled
+1038,Breaking Bad,Comedy,2024-11-12,110,Tablet,Cancelled
+1049,The Crown,Thriller,2024-11-05,38,Tablet,Active
+1006,The Crown,Sci-Fi,2024-11-14,109,Tablet,Active
+1048,Wednesday,Thriller,2024-11-17,47,TV,Active
+1005,BoJack Horseman,Thriller,2024-11-09,34,TV,Active
+1002,The Crown,Sci-Fi,2024-11-15,39,Tablet,Cancelled
+1046,BoJack Horseman,Comedy,2024-11-07,111,Mobile,Active
+1033,The Crown,Thriller,2024-11-25,104,Mobile,Active
+1002,Narcos,Thriller,2024-11-18,29,Laptop,Active
+1000,BoJack Horseman,Drama,2024-11-27,100,TV,Cancelled
+1028,Wednesday,Comedy,2024-11-16,91,Tablet,Cancelled
+1035,The Office,Crime,2024-11-26,49,Mobile,Active
+1045,The Crown,Thriller,2024-11-11,34,TV,Cancelled
+1037,The Crown,Drama,2024-11-07,58,Tablet,Active
+1030,Wednesday,Crime,2024-11-17,35,TV,Cancelled
+1034,Wednesday,Crime,2024-11-08,79,TV,Active
+1037,Narcos,Crime,2024-11-10,96,Tablet,Cancelled
+1003,The Crown,Drama,2024-11-17,112,TV,Active
+1020,Wednesday,Crime,2024-11-02,30,Laptop,Cancelled
+1019,The Crown,Drama,2024-11-30,42,Mobile,Cancelled
+1012,BoJack Horseman,Comedy,2024-11-07,20,Tablet,Active
+1014,Black Mirror,Crime,2024-11-08,65,Tablet,Cancelled
+1044,The Crown,Comedy,2024-11-25,87,Mobile,Cancelled
+1001,Stranger Things,Sci-Fi,2024-11-28,62,Laptop,Active
+1039,The Office,Sci-Fi,2024-11-29,59,Laptop,Active
+1032,The Crown,Thriller,2024-11-30,61,Tablet,Active
+1018,The Office,Thriller,2024-11-26,76,TV,Active
+1026,Breaking Bad,Comedy,2024-11-09,22,Tablet,Active
+1044,Breaking Bad,Thriller,2024-11-10,107,TV,Active
+1021,The Office,Comedy,2024-11-01,114,Laptop,Cancelled
+1034,The Office,Drama,2024-11-13,102,Mobile,Active
+1031,Stranger Things,Comedy,2024-11-27,111,TV,Active
+1024,The Office,Sci-Fi,2024-11-05,92,TV,Active
+1004,Wednesday,Sci-Fi,2024-11-21,61,Laptop,Active
+1032,Black Mirror,Thriller,2024-11-22,70,Mobile,Active
+1040,Narcos,Sci-Fi,2024-11-05,61,TV,Active
+1001,Breaking Bad,Thriller,2024-11-05,76,TV,Active
+1040,Narcos,Thriller,2024-11-05,92,Laptop,Cancelled
+1038,Wednesday,Sci-Fi,2024-11-29,86,TV,Active
+1033,BoJack Horseman,Crime,2024-11-28,65,TV,Cancelled
+1046,Wednesday,Drama,2024-11-24,92,Tablet,Cancelled
+1044,The Crown,Comedy,2024-11-07,75,Laptop,Cancelled
+1000,BoJack Horseman,Crime,2024-11-12,74,Tablet,Cancelled
+1027,Black Mirror,Crime,2024-11-27,99,Laptop,Active
+1042,The Crown,Thriller,2024-11-11,103,Tablet,Cancelled
+1000,Stranger Things,Drama,2024-11-09,21,Tablet,Cancelled
+1021,BoJack Horseman,Drama,2024-11-13,115,TV,Active
+1013,Stranger Things,Drama,2024-11-20,97,TV,Active
+1019,Wednesday,Sci-Fi,2024-11-10,79,TV,Active
+1031,Breaking Bad,Thriller,2024-11-09,79,Mobile,Active
+1034,BoJack Horseman,Crime,2024-11-06,43,Laptop,Cancelled
+1032,Breaking Bad,Crime,2024-11-23,113,Tablet,Active
+1032,Wednesday,Sci-Fi,2024-11-20,57,TV,Cancelled
+1015,BoJack Horseman,Drama,2024-11-11,67,Mobile,Cancelled
+1010,Black Mirror,Thriller,2024-11-15,83,Laptop,Cancelled
+1001,Black Mirror,Comedy,2024-11-07,87,Mobile,Active
+1045,The Crown,Crime,2024-11-17,38,Mobile,Active
+1012,The Office,Thriller,2024-11-11,105,TV,Active
+1012,The Crown,Comedy,2024-11-21,116,Mobile,Cancelled
+1039,Wednesday,Thriller,2024-11-12,120,Tablet,Cancelled
+1004,The Crown,Drama,2024-11-22,65,Tablet,Cancelled
+1026,The Crown,Crime,2024-11-14,99,TV,Cancelled
+1006,Stranger Things,Thriller,2024-11-11,33,TV,Active
+1020,Stranger Things,Sci-Fi,2024-11-20,49,TV,Active
+1036,Black Mirror,Crime,2024-11-16,23,Laptop,Cancelled
+1014,The Crown,Sci-Fi,2024-11-27,115,Laptop,Cancelled
+1018,Wednesday,Crime,2024-11-07,108,Laptop,Cancelled
+1014,Black Mirror,Comedy,2024-11-22,37,Laptop,Cancelled
+1041,Narcos,Crime,2024-11-29,78,Tablet,Active
+1013,BoJack Horseman,Drama,2024-11-09,83,Mobile,Cancelled
+1042,Stranger Things,Sci-Fi,2024-11-16,110,Mobile,Active
+1029,The Crown,Thriller,2024-11-16,105,Laptop,Cancelled
+1003,Black Mirror,Crime,2024-11-07,116,Tablet,Active
+1032,The Crown,Comedy,2024-11-11,63,Tablet,Active
+1037,Narcos,Comedy,2024-11-24,83,Tablet,Cancelled
+1004,Stranger Things,Sci-Fi,2024-11-21,107,TV,Cancelled
+1030,The Crown,Thriller,2024-11-25,59,Laptop,Cancelled
+1040,BoJack Horseman,Crime,2024-11-29,99,TV,Cancelled
+1022,Wednesday,Drama,2024-11-22,43,TV,Cancelled
+1017,The Crown,Thriller,2024-11-05,49,Mobile,Active
+1013,BoJack Horseman,Thriller,2024-11-23,89,Laptop,Cancelled
+1030,Stranger Things,Crime,2024-11-08,116,Laptop,Cancelled
+1013,The Office,Crime,2024-11-29,23,TV,Active
+1039,Narcos,Crime,2024-11-22,59,Mobile,Active
+1019,The Office,Comedy,2024-11-21,106,Laptop,Active
+1034,Black Mirror,Drama,2024-11-11,33,Mobile,Cancelled
+1008,Wednesday,Sci-Fi,2024-11-20,116,TV,Active
+1023,Wednesday,Thriller,2024-11-21,118,Mobile,Cancelled
+1009,BoJack Horseman,Comedy,2024-11-12,92,Laptop,Cancelled
+1001,Breaking Bad,Drama,2024-11-22,86,TV,Active
+1035,Stranger Things,Crime,2024-11-22,84,Mobile,Cancelled
+1020,The Crown,Thriller,2024-11-10,25,TV,Active
+1045,Black Mirror,Comedy,2024-11-03,104,Laptop,Cancelled
+1048,Stranger Things,Comedy,2024-11-01,64,TV,Active
+1042,The Office,Sci-Fi,2024-11-21,52,Tablet,Cancelled
+1047,Stranger Things,Crime,2024-11-19,77,TV,Cancelled
+1043,Black Mirror,Comedy,2024-11-08,49,Laptop,Active
+1039,Stranger Things,Comedy,2024-11-05,108,TV,Active
+1010,Stranger Things,Thriller,2024-11-29,65,Mobile,Cancelled
+1018,Wednesday,Sci-Fi,2024-11-16,78,TV,Cancelled
+1008,Breaking Bad,Thriller,2024-11-18,33,Laptop,Active
+1022,Narcos,Crime,2024-11-05,23,Laptop,Active
+1013,Narcos,Sci-Fi,2024-11-07,63,Laptop,Cancelled
+1021,Breaking Bad,Sci-Fi,2024-11-14,85,Laptop,Active
+1040,Black Mirror,Drama,2024-11-15,34,Tablet,Cancelled
+1032,The Office,Thriller,2024-11-18,44,Mobile,Cancelled
+1036,Wednesday,Drama,2024-11-02,30,TV,Active
+1026,The Office,Drama,2024-11-25,48,Laptop,Active
+1027,The Crown,Sci-Fi,2024-11-18,41,Laptop,Cancelled
+1001,Stranger Things,Comedy,2024-11-04,116,TV,Active
+1003,Breaking Bad,Thriller,2024-11-18,50,Laptop,Active
+1036,BoJack Horseman,Comedy,2024-11-29,68,Tablet,Cancelled
+1018,BoJack Horseman,Comedy,2024-11-02,23,Laptop,Active
+1029,Wednesday,Sci-Fi,2024-11-12,26,Tablet,Active
+1029,Stranger Things,Crime,2024-11-19,97,Mobile,Active
+1006,The Office,Comedy,2024-11-27,112,TV,Active
+1044,The Office,Drama,2024-11-11,106,Mobile,Cancelled
+1025,The Crown,Thriller,2024-11-22,65,Tablet,Active
+1048,Narcos,Drama,2024-11-08,29,TV,Active
+1032,Black Mirror,Comedy,2024-11-28,70,TV,Active
+1031,Black Mirror,Thriller,2024-11-14,55,TV,Active
+1046,The Office,Comedy,2024-11-30,55,Mobile,Active
+1022,Narcos,Drama,2024-11-03,53,Mobile,Active
+1006,Narcos,Thriller,2024-11-01,120,Laptop,Active
+1043,Wednesday,Comedy,2024-11-13,82,Mobile,Active
+1014,Breaking Bad,Crime,2024-11-06,69,Laptop,Cancelled
+1022,The Crown,Thriller,2024-11-28,34,Tablet,Active
+1031,Stranger Things,Thriller,2024-11-03,55,TV,Cancelled
+1014,The Crown,Sci-Fi,2024-11-09,89,TV,Active
